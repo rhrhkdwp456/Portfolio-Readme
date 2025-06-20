@@ -18,8 +18,8 @@
 - [🔗 GitHub 바로가기](https://github.com/rhrhkdwp456/Bible365-WebCrawler)
 
 ### 3. FCWorld (학원 전용 SNS)
-- 실시간 채팅 + 코드 저장 기능 + 게시판
-- 웹소켓 + MongoDB + 비공개 SNS 시스템
+- Node.js + MongoDB + Raspberry Pi
+- 실시간 채팅(웹소켓) + 코드 저장소 + SNS 시스템
 - [🔗 GitHub 바로가기](https://github.com/rhrhkdwp456/FCWorld-AcademySNS)
 
 ---
@@ -28,5 +28,5 @@
 - 프론트: HTML/CSS, JavaScript, Windows Forms
 - 백엔드: Node.js, Express, C#
 - 데이터베이스: MongoDB, SQLite
-- 기타: 크론 스케줄링, 웹소켓, COM 제어, Raspberry Pi 서버 구축
+- 기타: GUI, 크롤링,  Raspberry Pi 서버 구축, 크론 스케줄링, 웹소켓, COM 제어
 
